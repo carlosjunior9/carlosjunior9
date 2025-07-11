@@ -9,11 +9,33 @@
   UN POCO SOBRE MI 😉
 </h2>
 <P>
-  Mi nombre completo es Carlos Junior Mangudo Betancur.<br>
-  pero todos me dicen <strong>JUNIOR</strong><br>
-  Soy estudiante de Ingenieria en Sistemas.<br>
+  Mi nombre completo es Carlos Junior Mangudo Betancur😁 <br>
+  pero todos me dicen <strong>JUNIOR</strong>😎<br>
+  Soy estudiante de Ingenieria en Sistemas🤪<br>
   La frase que me distingue y que siempre sigo es<br>
-  <strong>VIVE UNA VIDA QUE RECUERDES</strong><br>
-  La frase es de mi dj favorito avicii
+  <strong>VIVE UNA VIDA QUE RECUERDES</strong>🤘<br>
+  La frase es de mi dj favorito avicii😅
 </p>
+<h2>
+  MIS CONOCIMIENTOS 😎
+</h2>
+<P>
+  Como estudiante de ingenieria en sistemas de la Universidad Mayor de San Simon<br>
+  El lenguaje de programacion en el que tengo mas conocimiento es <strong>JAVA</strong><br>
+  Pero tambien tome cursos externos a la universidad de otros lenguajes de programacion<br>
+  asi que tengo una lista de lenguajes de programacion que aprendi que son los siguientes:<br>
+  <ui>
+    <li>JAVA</li>
+    <li>C#</li>
+    <li>PYTHON</li>
+    <li>HTML (no se considera un lenguaje de programacion pero igual lo pongo en la lista)</li>
+    <li>CSS (un poco)</li>
+  </ui>
+  <br>
+  Estos son los pocos lenguajes que se, algunos domino mas que otros<br>
+  HTML se solo lo basico pero me sirvio para hacer este perfil<br>
+  Pero los lenguajes de programacion que domino es <strong>JAVA Y C#</strong><br>
+
+<img align="right" height="250" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" style="max-width: 100%; height: auto; max-height: 250px; display: inline-block;" data-target="animated-image.originalImage">
+</P>
 
